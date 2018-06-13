@@ -1,0 +1,12 @@
+{
+  "name": "target",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auto-auth": "^0.7.0"
+  }
+}
+        
